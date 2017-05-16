@@ -1,0 +1,14 @@
+{
+  "name": "abv-bc-slc",
+  "version": "1.0.0",
+  "description": "bootcamp 0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Ebuka Umeh",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
