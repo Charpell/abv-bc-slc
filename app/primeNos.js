@@ -17,7 +17,7 @@ module.exports.primeNos = function(n){
 			return true;
 		}
 	}
-
+	
 	if(isNaN(n)){
 		return "Invalid number";
 	}
@@ -33,5 +33,5 @@ module.exports.primeNos = function(n){
 	}
 	return primes;
 
-	
+
 }
